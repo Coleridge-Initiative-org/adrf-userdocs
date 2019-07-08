@@ -29,3 +29,4 @@ while preserving data confidentiality - it is designed following the
  :caption: FAQ
 
  faq/password
+ faq/support
