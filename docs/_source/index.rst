@@ -11,8 +11,10 @@ while preserving data confidentiality - it is designed following the
 `Five Safes framework <https://en.wikipedia.org/wiki/Five_safes>`_.
 
 .. image:: images/5safes.png
-  :width: 600
+  :width: 800
   :alt: The concept of the Five Safes Framework
+
+You can find more information about us and the work we do on our website :xref:`coleridgeinitiative`
 
 .. toctree::
    :maxdepth: 1

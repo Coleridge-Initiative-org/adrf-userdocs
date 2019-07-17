@@ -156,3 +156,9 @@ texinfo_documents = [
      author, 'ADRF', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+# -- Link extension ----------------------------------------------
+import sys, os
+sys.path.append('.')
+from links.link import *
+from links import *
