@@ -1,5 +1,6 @@
 Export Guidelines
 ==================
+
 Disclosure review means that ADRF staff will manually look at all your data output/study results which may be time consuming. Please limit the volume of your output requests for two reasons. One is that each additional release adds disclosure risk and limits subsequent releases. The other is that although we will try to release tables as quickly as possible, large requests are very time consuming and slow to review. To allow a quicker turnaround we ask you to follow the ADRF Export Guidelines:
 
 Documentation
