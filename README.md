@@ -9,8 +9,11 @@ Pushing commits to the `master` branch will automatically update https://adrf.re
 `pip install sphinx_rtd_theme`
 
 **Build**  
-`cd docs`  
+`cd docs`
 `make html`
 
 **View**  
 Open `_build/html/index.html` in a browser.
+
+**If you don't see what you'd expect**
+Run `make clean`, then `make html`. This will completely empty and rebuild the `_build` directory.
