@@ -24,8 +24,6 @@ Security Requirements
    :maxdepth: 1
    :caption: Security Requirements
 
-   This Section contains
-
    security_requirements/legal
    security_requirements/fedramp
 
