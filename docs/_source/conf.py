@@ -12,9 +12,18 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+#sys.path.insert(0, os.path.abspath('.'))
+sys.path.append('.')
+
+
+
+# -- Imports all link files into project -----------------------------------
+
+
+from links.link import *
+from links import *
 
 
 # -- Project information -----------------------------------------------------
@@ -157,8 +166,4 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-# -- Link extension ----------------------------------------------
-import sys, os
-sys.path.append('.')
-from links.link import *
-from links import *
+
