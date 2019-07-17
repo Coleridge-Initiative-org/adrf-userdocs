@@ -22,7 +22,6 @@ Security Requirements
 
 .. toctree::
    :maxdepth: 1
-   :caption: Security Requirements
 
    security_requirements/legal
    security_requirements/fedramp
