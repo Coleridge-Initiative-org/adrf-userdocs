@@ -33,7 +33,7 @@ while preserving data confidentiality - it is designed following the
 
 .. toctree::
   :maxdepth: 1
-  :caption: Export your Results
+  :caption: Export of Results
 
   export_of_results/guidelines
   export_of_results/submission
