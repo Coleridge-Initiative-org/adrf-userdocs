@@ -12,6 +12,13 @@ while preserving data confidentiality - it is designed following the
 
 .. toctree::
    :maxdepth: 1
+   :caption: Security Requirements
+
+   security_requirements/legal
+   security_requirements/fedramp
+
+.. toctree::
+   :maxdepth: 1
    :caption: Getting Started
 
    getting_started/username
@@ -23,6 +30,13 @@ while preserving data confidentiality - it is designed following the
 
   using_the_adrf/jupyterlab
   using_the_adrf/dbeaver
+
+ .. toctree::
+  :maxdepth: 1
+  :caption: Export your Results
+
+  export_of_results/guidelines
+  export_of_results/submission
 
 .. toctree::
  :maxdepth: 1
