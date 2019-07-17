@@ -10,6 +10,10 @@ environment developed by NYU. The goal of the ADRF is to encourage collaboration
 while preserving data confidentiality - it is designed following the
 `Five Safes framework <https://en.wikipedia.org/wiki/Five_safes>`_.
 
+.. image:: images/5safes.png
+  :width: 600
+  :alt: The concept of the Five Safes Framework
+
 .. toctree::
    :maxdepth: 1
    :caption: Security Requirements
