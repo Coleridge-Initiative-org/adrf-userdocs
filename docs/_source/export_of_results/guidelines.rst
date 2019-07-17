@@ -1,10 +1,10 @@
 Export Guidelines
-==================
+=================
 
 Disclosure review means that ADRF staff will manually look at all your data output/study results which may be time consuming. Please limit the volume of your output requests for two reasons. One is that each additional release adds disclosure risk and limits subsequent releases. The other is that although we will try to release tables as quickly as possible, large requests are very time consuming and slow to review. To allow a quicker turnaround we ask you to follow the ADRF Export Guidelines:
 
 Documentation
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 Please structure your input and output folders to enable ADRF Staff to find information quickly if needed. For example you can have one folder in which you store all the code, one folder for graphs, one folder for data, etc. If you have multiple files of code which depend on each other please name them in a way that is is visible which files runs first, second, etc. (1_DataPrep.py, 2_SummaryStats.py, 3_MultivarAnalyses.py).
 
 Think about meaningful names to allow inference on the content of the file. This also applies to variables. For instance, if you are calculating outflows it is better to name the variable outflows instead of var1. Every file of code should have a header including a description of the content of the file, a timestamp, and what kind of data manipulation takes place. The more detailed your documentation the easier it is for ADRF staff to follow your study during disclosure control.
@@ -12,14 +12,14 @@ Think about meaningful names to allow inference on the content of the file. This
 Code documentation is helpful for disclisure reviews. The better the documentation the faster the turnaround of export requests. In particular when you aggregate data files. In this case we require documentation on the level of aggregation and during which step in the program the aggregation took place (specify in code).
 
 Required Information
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 Please denote the unit of analysis clearly in your programs (individuals, regions, etc.). During disclosure review cell sizes represented with less than 10 individuals will be suppressed. Thus for each cell in the table (or the source data underlying any graph representation), provide the counts of each entity (n) and the percentage (p) of any value accounted for by the top 4 (k) entities. Some helpful hints are provided in the checklist below.
 
 For each statistic you want to be released we need the count of entities who are underlying this statistic. In case you generate aggregates we need the number of entities in each aggregate. If the aggregate is a ratio, the number of valid cases has to be computed for each subgroup of the aggregate (e.g. number of men in state X and number of women in state X in addition to the ratio of women in state X). For descriptive statistics: always report mean, min, max, and total number of observations. Do not include unit record data in programming code and logs.
 
 
-Checklist for Output 
-^^^^^^^^^^^^^^^^^^
+Checklist for Output
+^^^^^^^^^^^^^^^^^^^^
 
 #. Tabular Output
 
