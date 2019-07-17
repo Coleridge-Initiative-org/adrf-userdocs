@@ -35,6 +35,7 @@ All users of the ADRF need to be uniquely identified and need to authenticate wh
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Getting Started
 
    getting_started/username
@@ -46,6 +47,7 @@ Using the ADRF
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Using the ADRF
 
    using_the_adrf/jupyterlab
@@ -59,6 +61,7 @@ Any data product or output which is generated using non-public, restricted data 
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Export of Results
 
    export_of_results/guidelines
