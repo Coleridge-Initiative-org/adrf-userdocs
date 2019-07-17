@@ -31,7 +31,7 @@ while preserving data confidentiality - it is designed following the
   using_the_adrf/jupyterlab
   using_the_adrf/dbeaver
 
- .. toctree::
+.. toctree::
   :maxdepth: 1
   :caption: Export your Results
 
