@@ -3,7 +3,7 @@ Submit an Export Request
 
 Please read the export guidelines carefully and make sure your code and the material (files, tables, graphs, etc.) which you want to export is in compliance with it. Once the material you want to export is ready you can initiate an export request. There are three steps, detailed below, which you will need to complete to submit an export request: (1) prepare your export request, (2) submit your export request, and (3) create a merge request on GitLab for your export request. You will find two icons on your desktop to initate the request. 
 
-.. image:: images/icons.png
+.. image:: ../images/icons.png
   :width: 400
   :alt: Prepare and Submit icons
 
@@ -13,7 +13,7 @@ Prepare Export
 
 Start your export by clicking on the  "PrepareExport" icon on your desktop. This will open following terminal window:
 
-.. image:: images/prepare.png
+.. image:: ../images/prepare.png
   :width: 400
   :alt: Terminal Window Prepare Export
 
@@ -21,7 +21,7 @@ The window shows all the projects you are a member of listed with a number. Plea
 
 The export folder connected the the repo is located in your home directory. If you are a member of multiple projects, each project has its own export folder. You will find two subfolders "input" and "output" in the export folder.
 
-.. image:: images/folders.png
+.. image:: ../images/folders.png
   :width: 400
   :alt: Content of the Export folder
 
@@ -36,7 +36,7 @@ Submit Export
 
 After preparing the export you need to click on the icon "SubmitExport" which will open following terminal window for you:
 
-.. image:: images/submit.png
+.. image:: ../images/submit.png
   :width: 400
   :alt: Terminal window after runnning prepare export
 
@@ -49,17 +49,20 @@ Create Merge Request
 
 In order to complete your export request and notify ADRF you need to submit a merge request through GitLab. The following screenshots will walk you through the submission of a merge request.
 
-### 1. Create a New Merge Request
+1. Create a New Merge Request
+**********************************
 GitLab will open directly on the merge request tab. Please always click "New Merge Request", not the blue box which says Create Merge Request.
 
-.. image:: images/gitlab2.png
+.. image:: ../images/gitlab2.png
   :width: 400
   :alt: Merge Request tab in gitlab
 
-### 2. Select the Correct Branches
+2. Select the Correct Branches
+**********************************
+
 Now you have to select the source and target branch.
 
-.. image:: images/gitlab3.png
+.. image:: ../images/gitlab3.png
   :width: 400
   :alt: Merge Request branch selection in gitlab
 
@@ -68,7 +71,9 @@ Now you have to select the source and target branch.
 
 Please make sure that you selected the correct branches before you click "Compare branches and Continue".
 
-### 3. Fill out the Form and Submit the Request
+3. Fill out the Form and Submit the Request
+**********************************
+
 Now you can complete the export form and click "Submit Merge Request":
 * Title: Please fill in the title with "export-username-date"
 * Description: Please provide us with a description of what you are exporting. The more details you provide the easier it is to understand what you did in your analyses. Think about the information someone who is not familiar with your project needs to know to understand your research.
@@ -76,7 +81,7 @@ Now you can complete the export form and click "Submit Merge Request":
 * Source branch: Should be the branch that you submitted for export ("export-username-date")
 * Target branch: Please make sure that master is selected.
 
-.. image:: images/gitlab4.png
+.. image:: ../images/gitlab4.png
   :width: 400
   :alt: Fill out mere=ge request form in gitlab
 
