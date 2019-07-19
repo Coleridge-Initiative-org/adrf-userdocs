@@ -9,7 +9,7 @@ According to FedRamp regulations all users of the ADRF have to undergo a securit
 * Best practices to secure IT assets and data in and out of the office
 * Threats to information and privacy and the correct way to respond to a incident
 
-You can watch the videos here anytime you need a reminder. If you have to take the test please do this HERE
+You can watch the videos here anytime you need a reminder. 
 
 .. raw:: html
 
@@ -20,17 +20,20 @@ You can watch the videos here anytime you need a reminder. If you have to take t
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/332501425" width="640" height="400" frameborder="0" allowfullscreen></iframe>
 
 
-Rules of Behavior
-======================================
 
-APPROPRIATE USE
+
+Rules of Behavior
+==================
+
+
+1. Appropriate Use
 ***************
 
 Your access to systems and networks owned by NYU is governed by, and subject to, all Federal laws, including, but not limited to, the Privacy Act, 5 U.S.C. 552a, if the applicable ADRF system maintains individual Privacy Act information. Your access to the ADRF system constitutes your consent to the retrieval and disclosure of the information within the scope of your authorized access, subject to the Privacy Act, and applicable State and Federal laws.
 The system is only to be used for authorized projects.
 You must not retrieve information, or in any other way disclose information, for someone who does not have authority to access that information.
 
-APPROPRIATE BEHAVIOR
+2. Appropriate Behaviour
 ********************
 
 Maintain the confidentiality of your authentication credentials such as your password. Do not reveal your authentication credentials to anyone; an NYU/University of Chicago/UMD employee should never ask you to reveal them.
