@@ -26,6 +26,7 @@ The ADRF has to comply with several security protocols set up by FedRamp and the
 
    security_requirements/legal
    security_requirements/fedramp
+   security_requirements/tou
 
 
 Getting Started

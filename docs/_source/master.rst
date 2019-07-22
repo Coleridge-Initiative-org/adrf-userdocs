@@ -6,6 +6,7 @@ The Master TOC tree
 
    security_requirements/legal
    security_requirements/fedramp
+   security_requirements/tou
 
 .. toctree::
    :caption: Getting Started
