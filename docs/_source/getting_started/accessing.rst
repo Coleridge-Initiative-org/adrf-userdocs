@@ -3,7 +3,7 @@ Accessing the ADRF
 
 Once you have your account set up you can access the ADRF at https://workspace.adrf.cloud. This link will bring you to the log in screen.
 
-Log in using credentials:
+Log in using credentials
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please enter your credentials and click the log in button:
@@ -27,7 +27,7 @@ Select your Project
 
 In a next step you will be brought to a screen where you can select the project you want to log in for. The application will display all projects in the ADRF you are a member of and are authorized to access data associated with that project and research purpose outlined in the data use agreement you signed.
 
-.. image:: ../images/workspace.gif
+.. image:: ../images/workspace.png
   :width: 400
   :alt: Screenshot of workspace
 
