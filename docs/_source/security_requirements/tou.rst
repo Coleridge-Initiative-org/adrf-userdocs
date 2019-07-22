@@ -30,4 +30,4 @@ Report all security incidents or suspected incidents (e.g., lost passwords, impr
 * Usage of public or private external websites on ADRF is strictly prohibited and should be reported immediately, this includes but is not limited to social media/networking websites.
 
 
-In order to access the ADRF every unser needs to ahere to these rules and sign the protocol on our website :termsuse:`Link to Yerms of Use <>`.
+In order to access the ADRF every unser needs to ahere to these rules and sign the protocol on our website :termsuse:`Link to Terms of Use <>`.
