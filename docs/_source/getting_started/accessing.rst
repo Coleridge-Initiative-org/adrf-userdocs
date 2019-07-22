@@ -27,9 +27,9 @@ Select your Project
 
 In a next step you will be brought to a screen where you can select the project you want to log in for. The application will display all projects in the ADRF you are a member of and are authorized to access data associated with that project and research purpose outlined in the data use agreement you signed.
 
-.. image:: ../images/workspace.png
-  :width: 400
-  :alt: Screenshot of workspace
+.. image:: ../images/login.gif
+  :width: 600
+  :alt: gif of login
 
 After you select the project and confirm the selection, the system will prepare your workspace. This might take some time. A progress bar will give you an estimate of remaining time to workspace creation and sucessful login.
 
@@ -38,9 +38,8 @@ Explore your Workspace
 
 Once you logged in successfully you will be able to see your workspace and interact with the applications provided for you on the workspace. The workspace will look similar to the picture below
 
-.. image:: ../images/login.gif
-  :width: 600
+.. image:: ../images/workspace.png
+  :width: 400
   :alt: Screenshot of workspace
-
 
 You can find shortcodes to open the software provided for you. On the lower left corner you can open the file manager and navigate to your home folder on the ADRF.
