@@ -6,12 +6,18 @@ The ADRF uses two-factor authentication for additional security. You'll need to 
 Download DuoMobile
 ^^^^^^^^^^^^^^^^^^
 
-Download DuoMobile to your phone or tablet.
+Download DuoMobile to your phone or tablet. There is an app for iphones and android. You can find more information here: https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
 
 Log in using credentials
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Go to http://bit.ly/adrf-id and log in using the credentials you received via email. If you have not received credentials, please contact support at support@adrf.zendesk.com
+Go to http://bit.ly/adrf-id and this will take you to your ADRF account. You will see the followingf screen: 
+
+.. image:: ../images/adrf.png
+  :width: 400
+  :alt: ADRF Account log in
+
+Please log in using the credentials you received via email. If you have not received credentials, please contact support at support@adrf.zendesk.com
 
 Scan QR code
 ^^^^^^^^^^^^

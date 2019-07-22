@@ -9,6 +9,8 @@ According to FedRamp regulations all users of the ADRF have to undergo a securit
 * Best practices to secure IT assets and data in and out of the office
 * Threats to information and privacy and the correct way to respond to a incident
 
+Before granted access to the ADRF you have to complete a security awareness test. Passing this test shpws that you understand your responsibilities working in the ADRF. You can take the test on our website :sectest:`Link to Security Test <>`.
+
 You can watch the videos of the training below. 
 
 .. raw:: html
@@ -19,7 +21,6 @@ You can watch the videos of the training below.
 
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/332501425" width="640" height="400" frameborder="0" allowfullscreen></iframe>
 
-Before granted access to the ADRF you have to complete a security awareness test. Passing this test shpws that you understand your responsibilities working in the ADRF. You can take the test on our website :sectest:`Link to Security Test <>`.
 
 
 Terms of Use
@@ -41,6 +42,7 @@ Your access to systems and networks owned by NYU is governed by, and subject to,
 
 2. Appropriate Behavior
 ^^^^^^^^^^^^^^^^^^^
+\
 Please keep these rules in mind when working in the ADRF: 
 * Maintain the confidentiality of your authentication credentials such as your password. Do not reveal your authentication credentials to anyone; ADRF staff should never ask you to reveal them.
 * Follow proper logon/logoff procedures. You must manually logon to your session; do not store your password locally on your system or utilize any automated logon capabilities. You must promptly logoff when session access is no longer needed. If a logoff function is unavailable, you must close your browser. Never leave your computer unattended while logged into the system.
