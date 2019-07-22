@@ -13,7 +13,7 @@ Please enter your credentials and click the log in button:
 
 Clicking the log in button will bring you to the next step. Now you need to get your access token for the two factor log in.
 
-Enter your One-time code:
+Enter your One-time code
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please go to your phone and open the app you installed such as Duo Mobile and find the access token. Enter the 6 digit code into the One-Time code field and click log in as pictured below.
@@ -22,20 +22,24 @@ Please go to your phone and open the app you installed such as Duo Mobile and fi
   :width: 600
   :alt: Enter onetimecode
 
-Select your Project:
+Select your Project
 ^^^^^^^^^^^^^^^^^^^^
 
 In a next step you will be brought to a screen where you can select the project you want to log in for. The application will display all projects in the ADRF you are a member of and are authorized to access data associated with that project and research purpose outlined in the data use agreement you signed.
 
+.. image:: ../images/workspace.gif
+  :width: 400
+  :alt: Screenshot of workspace
+
 After you select the project and confirm the selection, the system will prepare your workspace. This might take some time. A progress bar will give you an estimate of remaining time to workspace creation and sucessful login.
 
-Explore your Workspace:
+Explore your Workspace
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 Once you logged in successfully you will be able to see your workspace and interact with the applications provided for you on the workspace. The workspace will look similar to the picture below
 
-.. image:: ../images/workspace.png
-  :width: 400
+.. image:: ../images/login.gif
+  :width: 600
   :alt: Screenshot of workspace
 
 
