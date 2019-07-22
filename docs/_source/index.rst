@@ -19,6 +19,7 @@ This guide covers all of the basics users need to know when working in the ADRF.
 
 Security Requirements
 ^^^^^^^^^^^^^^^^^^^^^
+The ADRF has to comply with several security protocols set up by FedRamp and the government agencies ingesting data into the ADRF. One of the core principle of the ADRF is to invest resources in safe users. This means by delivering responsible use trainings and having policies around security protocols users learn how to work in the ADRF responsibly and protect confidentiality. 
 
 .. toctree::
    :maxdepth: 1
@@ -42,6 +43,8 @@ All users of the ADRF need to be uniquely identified and need to authenticate wh
 Using the ADRF
 ^^^^^^^^^^^^^^
 
+The ADRF provides its users multiple tools to manage their workflow. The most common software used are jupyter notebooks. Most of the data is stored in databases and dbeaver is the GUI installed to quickly access the databases. 
+
 .. toctree::
    :maxdepth: 1
 
@@ -63,6 +66,8 @@ Any data product or output which is generated using non-public, restricted data 
 
 FAQ
 ^^^
+
+We collect commonly asked questions here. In case you can't find answers to your questions here please email support@adrf.zendesk.com and we will gwet back to you as soon as possible.  
 
 .. toctree::
    :maxdepth: 1
