@@ -67,7 +67,7 @@ Any data product or output which is generated using non-public, restricted data 
 FAQ
 ^^^
 
-We collect commonly asked questions here. In case you can't find answers to your questions here please email support@adrf.zendesk.com and we will gwet back to you as soon as possible.  
+We collect commonly asked questions here. In case you can't find answers to your questions here please email support@adrf.zendesk.com and we will get back to you as soon as possible.  
 
 .. toctree::
    :maxdepth: 1
