@@ -6,12 +6,12 @@ The ADRF uses two-factor authentication for additional security. You'll need to 
 Download DuoMobile
 ^^^^^^^^^^^^^^^^^^
 
-Download DuoMobile to your phone or tablet. There is an app for iphones and android. You can find more information here: https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
+Download DuoMobile to your phone or tablet. There is an app for iPhone and Android. You can find more information here: https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
 
 Log in using credentials
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Go to https://id.adrf.cloud/auth/realms/ADRF and this will take you to your ADRF account. You will see the following screen: 
+Go to https://id.adrf.cloud/auth/realms/ADRF and this will take you to your ADRF account. You will see the following screen:
 
 .. image:: ../images/adrf.png
   :width: 600
