@@ -4,7 +4,7 @@ Terms of Use
 The ADRF is a secure system that hosts data from various government agancies in the United States. Thus. users have to comply with the Terms of Use when working in the ADRF. Every time upon login you will see a reminder. Before confirming please make sure that you kn ow what your respinsibilites are. 
 
 .. image:: ../images/attention.png
-  :width: 200
+  :width: 400
   :alt: Warning Responsibilities
 
 

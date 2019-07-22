@@ -1,7 +1,7 @@
 Security Awareness Training 
 ===========================
 
-According to FedRamp regulations all users of the ADRF have to undergo a security awareness training before being able to access the comoputing environment, and yearly thereafter. This is to make sure that all users are aware of best practices and policies addressing safe data usage. The security training informs users about 
+According to FedRamp regulations all users of the ADRF have to undergo a security awareness training before being able to access the comoputing environment, and yearly thereafter. This is to make sure that all users are aware of best practices and policies addressing safe data usage. The security training informs users about:
 
 * Privacy, confidentiality, personally identifiable information (PII)
 * Information security and regulations that mandate the protection of IT assets
@@ -9,7 +9,7 @@ According to FedRamp regulations all users of the ADRF have to undergo a securit
 * Best practices to secure IT assets and data in and out of the office
 * Threats to information and privacy and the correct way to respond to a incident
 
-Before granted access to the ADRF you have to complete a security awareness test. Passing this test shows that you understand your responsibilities working in the ADRF.
+Before granted access to the ADRF you have to complete a security awareness test. Passing this test shows that you understand your responsibilities working in the ADRF. 
 
 You can watch the videos of the training below. 
 
