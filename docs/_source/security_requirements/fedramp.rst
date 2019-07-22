@@ -9,7 +9,7 @@ According to FedRamp regulations all users of the ADRF have to undergo a securit
 * Best practices to secure IT assets and data in and out of the office
 * Threats to information and privacy and the correct way to respond to a incident
 
-Before being granted access to the ADRF, you have to complete a security awareness test. Passing this test shows that you understand your responsibilities working in the ADRF.
+Before being granted access to the ADRF, you have to complete a security awareness test. Passing this test shows that you understand your responsibilities working in the ADRF. You can take the security test on our website :sectest:`Link to Terms of Use <>`.
 
 You can watch the videos of the training below.
 

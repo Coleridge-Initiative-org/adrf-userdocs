@@ -1,4 +1,4 @@
-The Master TOC tree
+Table of Content
 ===================
 
 .. toctree::

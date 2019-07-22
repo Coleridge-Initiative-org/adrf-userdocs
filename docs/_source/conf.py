@@ -173,4 +173,6 @@ extlinks = {'fivesafes': ('https://en.wikipedia.org/wiki/Five_safes%s', ''),
             'coleridgeinitiative': ('https://coleridgeinitiative.org/%s', ''),
             'sectest': ('https://ada.coleridgeinitiative.org/security-training%s', ''),
             'termsuse': ('https://ada.coleridgeinitiative.org/rules-of-behavior%s', ''),
-            'forgotpassword': ('https://id.adrf.cloud/auth/realms/ADRF/account%s', '')}
+            'forgotpassword': ('https://id.adrf.cloud/auth/realms/ADRF/account%s', ''),
+            'sectest': ('https://ada.coleridgeinitiative.org/security-training%s', '')}
+
