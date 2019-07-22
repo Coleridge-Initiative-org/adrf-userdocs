@@ -4,7 +4,7 @@ Terms of Use
 The ADRF is a secure system that hosts data from various government agencies in the United States. Thus. users have to comply with the Terms of Use when working in the ADRF. Every time upon login you will see a reminder. Before confirming please make sure that you know what your responsibilities are.
 
 .. image:: ../images/attention.png
-  :width: 400
+  :width: 600
   :alt: Warning Responsibilities
 
 
@@ -30,4 +30,4 @@ Please keep these rules in mind when working in the ADRF:
 * Usage of public or private external websites on ADRF is strictly prohibited and should be reported immediately, this includes but is not limited to social media/networking websites.
 
 
-In order to access the ADRF every unser needs to ahere to these rules and sign the protocol on our website :termsuse:`Link to Terms of Use <>`.
+In order to access the ADRF every unser needs to ahere to these rules and sign the protocol on our website under :termsuse:`Terms of Use <>`.
