@@ -4,7 +4,7 @@ Submit an Export Request
 Please read the export guidelines carefully and make sure your code and the material (files, tables, graphs, etc.) which you want to export is in compliance with it. Once the material you want to export is ready you can initiate an export request. There are three steps, detailed below, which you will need to complete to submit an export request: (1) prepare your export request, (2) submit your export request, and (3) create a merge request on GitLab for your export request. You will find two icons on your desktop to initate the request. 
 
 .. image:: ../images/icons.png
-  :width: 400
+  :width: 100
   :alt: Prepare and Submit icons
 
 
