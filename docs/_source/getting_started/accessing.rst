@@ -1,7 +1,7 @@
 Accessing the ADRF
 ==================
 
-Once you have your account set up you can access the ADRF at https//:workspace.adrf.cloud. This link will bring you to the log in screen. 
+Once you have your account set up you can access the ADRF at https://workspace.adrf.cloud. This link will bring you to the log in screen. 
 
 Log in using credentials:
 ^^^^^^^^^^^^^^^^^^^^^^^^^
