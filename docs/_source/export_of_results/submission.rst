@@ -1,7 +1,15 @@
 Submit an Export Request
 ========================
 
-Please read the export guidelines carefully and make sure your code and the material (files, tables, graphs, etc.) which you want to export is in compliance with it. Once the material you want to export is ready you can initiate an export request. There are three steps, detailed below, which you will need to complete to submit an export request: (1) prepare your export request, (2) submit your export request, and (3) create a merge request on GitLab for your export request. You will find two icons on your desktop to initate the request.
+:Note: Before following these instructions, you will need to have previously logged into Gitlab once before. Afterwards, please allow up to 15 minutes before submitting a request as it takes time for Gitlab to be synchronized with the system.
+
+Please read the export guidelines carefully and make sure your code and the material (files, tables, graphs, etc.) which you want to export is in compliance with it. Once the material you want to export is ready you can initiate an export request. There are three steps, detailed below, which you will need to complete to submit an export request:
+
+1. Prepare your export request
+2. Submit your export request
+3. Create a merge request on GitLab for your export request.
+
+You will find two icons on your desktop to initiate the request.
 
 .. image:: ../images/icons.png
   :width: 100
@@ -17,17 +25,17 @@ Start your export by clicking on the  "PrepareExport" icon on your desktop. This
   :width: 400
   :alt: Terminal Window Prepare Export
 
-The window shows all the projects you are a member of listed with a number. Please select the project you want to export files for by typing the number associated with this project and press enter. The prepare export script then clones your export repository (if necessary) and generates a new branch for the export which is named "export-username-YYYYMMDD".
+The prepare export script clones your export repository (if necessary) and generates a new branch for the export which is named "export-username-YYYYMMDDHHMMSS".
 
-The export folder connected the the repo is located in your home directory. If you are a member of multiple projects, each project has its own export folder. You will find two subfolders "input" and "output" in the export folder.
+The export folder connected the the repo is located in your home directory. You will find two subfolders "input" and "output" in the export folder.
 
 .. image:: ../images/folders.png
   :width: 400
   :alt: Content of the Export folder
 
-Now you can drag and drop the files you want to export in the corresponding folders:
+Now you can drag and drop the files you want to export into the corresponding folders:
 * Input folder: please save all files you used to create the files you are asking to export. This includes all code files and any other documentation you want to provide with your results.
-* Export folder: all files that you want to export go in this folder. Any format is allowed. Please remember that if you request graphs we need a csv or txt file showing the numbers behind the graph. If you want to export a juypter notebook please clear any data in the notebook before exporting.
+* Export folder: all files that you want to export go in this folder. Any format is allowed. Please remember that if you request graphs we need a csv or txt file showing the numbers behind the graph. If you want to export a Juypter notebook, please clear any data in the notebook before exporting.
 
 When you are done with copying the files needed for the export you can close the windows and start the second part of the export request, the actual submission.
 
@@ -38,9 +46,9 @@ After preparing the export you need to click on the icon "SubmitExport" which wi
 
 .. image:: ../images/submit.png
   :width: 400
-  :alt: Terminal window after runnning prepare export
+  :alt: Terminal window after running prepare export
 
-As in the export preparation you will have to make a decision for which project you want to submit the request. Enter the number associated with the project you want to submit. Then you will be asked to enter your user name and password for GitLab.
+Enter the number associated with the project you want to submit (1 in this example). Then you will be asked to enter your password for GitLab.
 
 After entering your GitLab account info your export request will be pushed to the respective project export folder and GitLab will open so you can complete the export. The export request is labeled with "export-username-date".
 
@@ -51,7 +59,7 @@ In order to complete your export request and notify ADRF you need to submit a me
 
 1. Create a New Merge Request
 *****************************
-GitLab will open directly on the merge request tab. Please always click "New Merge Request", not the blue box which says Create Merge Request.
+GitLab will open directly on the merge request tab. Please always click the green "New Merge Request", (**not** the blue button which says Create Merge Request).
 
 .. image:: ../images/gitlab2.png
   :width: 400
@@ -75,11 +83,12 @@ Please make sure that you selected the correct branches before you click "Compar
 *******************************************
 
 Now you can complete the export form and click "Submit Merge Request":
-* Title: Please fill in the title with "export-username-date"
-* Description: Please provide us with a description of what you are exporting. The more details you provide the easier it is to understand what you did in your analyses. Think about the information someone who is not familiar with your project needs to know to understand your research.
-* Assignee/Milestones/Labels: You can leave these fields as they are
-* Source branch: Should be the branch that you submitted for export ("export-username-date")
-* Target branch: Please make sure that master is selected.
+
+* **Title**: Please fill in the title with "export-username-date"
+* **Description**: Please provide us with a description of what you are exporting. The more details you provide the easier it is to understand what you did in your analyses. Think about the information someone who is not familiar with your project needs to know to understand your research.
+* **Assignee/Milestones/Labels**: You can leave these fields as they are
+* **Source branch**: Should be the branch that you submitted for export ("export-username-date")
+* **Target branch**: Please make sure that master is selected.
 
 .. image:: ../images/gitlab4.png
   :width: 400
@@ -90,6 +99,6 @@ Please do not close the merge request. If you close the merge request the ADRF s
 Download Approved Export
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Now the export was submitted and is in line for disclosure review. During the disclosure review ARDF staffs makes sure that all the output you wnat to export does not re-identify a single data entity and is prepared according to the export guidelines. The ARDF will be in touch with you and send you a download link if your export is approved. If your export is not approved ADRF staff will reach out to you and let you know what you need to change to get your export approved. The export request will be protected and you can not make any changes to this export request. If you need more output you need to submit a new export request.
+Now the export has been submitted and is in line for disclosure review. During the disclosure review, ADRF staff makes sure that all the output you want to export does not re-identify a single data entity and is prepared according to the export guidelines. The ADRF will be in touch with you and send you a download link if your export is approved. If your export is not approved, ADRF staff will reach out to you and let you know what you need to change to get your export approved. The export request will be protected and you can not make any changes to this export request. If you need more output you need to submit a new export request.
 
 We will try to make export turnaround as fast as possible, but in order to do that, it will be necessary to keep the number of the export requests at a minimum.
