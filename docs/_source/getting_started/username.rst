@@ -11,7 +11,7 @@ Download DuoMobile to your phone or tablet. There is an app for iPhone and Andro
 Log in using credentials
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Go to https://id.adrf.cloud/auth/realms/ADRF and this will take you to your ADRF account. You will see the following screen:
+Go to https://id.adrf.cloud/auth/realms/ADRF/account and this will take you to your ADRF account. You will see the following screen:
 
 .. image:: ../images/adrf.png
   :width: 600
