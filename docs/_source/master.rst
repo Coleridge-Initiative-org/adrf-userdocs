@@ -19,6 +19,7 @@ Table of Content
 
    using_the_adrf/jupyterlab
    using_the_adrf/dbeaver
+   using_the_adrf/mattermost
 
 .. toctree::
    :caption: Export of Results
@@ -29,5 +30,6 @@ Table of Content
 .. toctree::
    :caption: FAQ
 
+   faq/filepermission
    faq/password
    faq/support
