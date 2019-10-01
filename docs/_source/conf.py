@@ -83,7 +83,7 @@ pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------
-
+html_logo = 'images/adrf_horizontal_small.png'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
@@ -93,7 +93,9 @@ html_theme = 'sphinx_rtd_theme'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'logo_only': True
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
