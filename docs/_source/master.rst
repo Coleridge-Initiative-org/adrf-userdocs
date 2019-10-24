@@ -15,6 +15,12 @@ Table of Content
    getting_started/accessing
 
 .. toctree::
+   :caption: Datastewardship Application
+
+   ds_documents/login
+   ds_documents/onboarding
+
+.. toctree::
    :caption: Using the ADRF
 
    using_the_adrf/jupyterlab
