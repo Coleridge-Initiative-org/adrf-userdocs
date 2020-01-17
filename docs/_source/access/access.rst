@@ -34,7 +34,7 @@ You will be brought to your homepage on the Data Stewardship application. On the
   :width: 600
   :alt: Image of homepage
 
-After your first login, you can find the ADRF onboarding in the navigation bar. In the right-upper corner you can see you account name and clicking on it will lead you to your personal page where you can provide information about yourself. In the middle of the screen you will see two panels. You can submit new research projects in the first one. The second panel will bring you to your workspace in the ADRF.
+After your first login, you can find the ADRF onboarding in the navigation bar. In the right-upper corner you can see you account name and clicking on it will lead you to your personal page where you can provide information about yourself. In the middle of the screen you will see two panels. You can submit new research projects in the first one. The second panel will bring you to your workspace in the ADRF. If you click launch workspace it will direct you to the login page of the ADRF (see following section).
 
 
 Sign in via the Direct Link
