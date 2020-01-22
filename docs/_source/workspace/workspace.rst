@@ -1,5 +1,5 @@
 Explore your Workspace
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 Once you logged in successfully you will be able to see your workspace and interact with the applications provided for you on the workspace. The workspace will look similar to the picture below.
 
@@ -7,7 +7,7 @@ Once you logged in successfully you will be able to see your workspace and inter
   :width: 600
   :alt: Screenshot of workspace
 
-You can find shortcodes to open the software provided for you. In order for members of a research group or team to effectively collaborate and share code, project workspaces are created for each project team. Specifically, this is a shared folder in the ADRF environment to which only the members of the research team have access. On the lower left corner you can open the file manager and navigate to your home folder on the ADRF. 
+You can find shortcodes to open the software provided for you. In order for members of a research group or team to effectively collaborate and share code, project workspaces are created for each project team. Specifically, this is a shared folder in the ADRF environment to which only the members of the research team have access. On the lower left corner you can open the file manager and navigate to your home folder on the ADRF.
 
 .. image:: ../images/fileman.png
   :width: 600

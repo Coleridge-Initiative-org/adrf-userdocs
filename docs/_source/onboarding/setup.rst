@@ -1,16 +1,16 @@
 Account Registration
-===========================================
+====================
 The guide below will help you to set up your account and provide you with everything you need to know to successfully connect to your workspace in the ADRF.
 
 Register for an Account
 -----------------------
-If you don't have an ADRF account yet, the first step to create an account is to register with us. Please go to https://ds.adrf.cloud/ and click the register button. After you click the register button you will be directed to the following screen. 
+If you don't have an ADRF account yet, the first step to create an account is to register with us. Please go to https://ds.adrf.cloud/ and click the register button. After you click the register button you will be directed to the following screen.
 
 .. image:: ../images/registration.png
   :width: 600
   :alt: Login screen for data stewardship application
 
-Please fill out the form with your information and hit the sign up button when you're ready. This will notify us and initate a internal review if you are eligible for an account. Once your registration is approved our account will be created and you will receive an email with further instructions to fully set up the account. 
+Please fill out the form with your information and hit the sign up button when you're ready. This will notify us and initate a internal review if you are eligible for an account. Once your registration is approved our account will be created and you will receive an email with further instructions to fully set up the account.
 
 Claiming your Username and Password
 -----------------------------------

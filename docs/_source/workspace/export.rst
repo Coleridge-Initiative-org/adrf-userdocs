@@ -1,10 +1,10 @@
 Exporting Results
 =================
-You have been granted access to a computing environment with sensitive data. Thus it is important that you adhere to the terms of use you signed and keep data confidential. FedRamp regulations state that disclosure of data should not happen at any time during your research project. 
+You have been granted access to a computing environment with sensitive data. Thus it is important that you adhere to the terms of use you signed and keep data confidential. FedRamp regulations state that disclosure of data should not happen at any time during your research project.
 
 Disclosure of data refers to every output you take out of the ADRF without going through the export process. This includes but is not limited to taking handwritten notes, taking screenshots or pictures, talking to somebody who is not on your project about specifics in the data, and working in a public space where external people might see your screen.
 
-This does not mean that you can't get any research output from the ADRF, however to comply with FedRamp security protocols, we have a process in place which every user has to undergo if they want to have results for presentations or papers. The following section describes the ADRF export control and provides guidelines on how to prepare exports so they will meet the disclosure proofing requirements. 
+This does not mean that you can't get any research output from the ADRF, however to comply with FedRamp security protocols, we have a process in place which every user has to undergo if they want to have results for presentations or papers. The following section describes the ADRF export control and provides guidelines on how to prepare exports so they will meet the disclosure proofing requirements.
 
 Export Guidelines
 -----------------
@@ -17,7 +17,7 @@ Please structure your input and output folders to enable ADRF Staff to find info
 
 Think about meaningful names to allow inference on the content of the file. This also applies to variables. For instance, if you are calculating outflows it is better to name the variable outflows instead of var1. Every file of code should have a header including a description of the content of the file, a timestamp, and what kind of data manipulation takes place. The more detailed your documentation the easier it is for ADRF staff to follow your study during disclosure control.
 
-Code documentation is helpful for disclisure reviews. The better the documentation the faster the turnaround of export requests. In particular when you aggregate data files. In this case we require documentation on the level of aggregation and during which step in the program the aggregation took place (specify in code).
+Code documentation is helpful for disclosure reviews. The better the documentation the faster the turnaround of export requests. In particular when you aggregate data files. In this case we require documentation on the level of aggregation and during which step in the program the aggregation took place (specify in code).
 
 Required Information
 ^^^^^^^^^^^^^^^^^^^^
@@ -162,4 +162,3 @@ Download Approved Export
 Now the export has been submitted and is in line for disclosure review. During the disclosure review, ADRF staff makes sure that all the output you want to export does not re-identify a single data entity and is prepared according to the export guidelines. The ADRF will be in touch with you and send you a download link if your export is approved. If your export is not approved, ADRF staff will reach out to you and let you know what you need to change to get your export approved. The export request will be protected and you can not make any changes to this export request. If you need more output you need to submit a new export request.
 
 We will try to make export turnaround as fast as possible, but in order to do that, it will be necessary to keep the number of the export requests at a minimum.
-

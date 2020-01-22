@@ -1,7 +1,7 @@
 Security Training and Legal Requirements
 ========================================
 
-Before gaining access to all functionalities of the ADRF, every user needs to undergo a security awarness training and sign the terms of use. You can initiate this by clicking on Onboarding in the navigation bar. This will bring you to the ADRF onboarding module.
+Before gaining access to all functionalities of the ADRF, every user needs to undergo a security awareness training and sign the terms of use. You can initiate this by clicking on Onboarding in the navigation bar. This will bring you to the ADRF onboarding module.
 
 .. image:: ../images/ds_onboarding.png
   :width: 600
@@ -9,7 +9,7 @@ Before gaining access to all functionalities of the ADRF, every user needs to un
 
 
 Security Awareness Training
-----------------------------
+---------------------------
 According to FedRamp regulations all users of the ADRF have to undergo a security awareness training before being able to access the computing environment, and yearly thereafter. This is to make sure that all users are aware of best practices and policies addressing safe data usage. The security training informs users about:
 
 * Privacy, confidentiality, personally identifiable information (PII)
@@ -31,7 +31,7 @@ You can also watch the videos of the training below.
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/332501425" width="640" height="400" frameborder="0" allowfullscreen></iframe>
 
 Terms of Use
-----------------------------
+------------
 
 The ADRF is a secure system that hosts data from various government agencies in the United States. Thus. users have to comply with the Terms of Use when working in the ADRF. Every time upon login you will see a reminder. Before confirming please make sure that you know what your responsibilities are.
 
@@ -63,10 +63,10 @@ Please keep these rules in mind when working in the ADRF:
 * Usage of public or private external websites on ADRF is strictly prohibited and should be reported immediately, this includes but is not limited to social media/networking websites.
 
 
-Data Use and Non-Disclosure Agreements 
----------------------------------------
+Data Use and Non-Disclosure Agreements
+--------------------------------------
 
-Data accessed in the ADRF are sensitive in nature and thus protected by law in most of the cases. This means that for every dataset in the ADRF there is a data use agreement in place that provides the legal foundation around access. You will need to sign the data use agreement and/or associated non disclosure agreement during the setup of your project space. 
+Data accessed in the ADRF are sensitive in nature and thus protected by law in most of the cases. This means that for every dataset in the ADRF there is a data use agreement in place that provides the legal foundation around access. You will need to sign the data use agreement and/or associated non disclosure agreement during the setup of your project space.
 
 It is important that you adhere to the Data Use Agreement and/or Non-disclosure agreement you signed. Please keep a copy of the document you signed and make sure you fully understand your responsibilities. Please find below the most important points to keep in mind.
 
@@ -74,5 +74,3 @@ It is important that you adhere to the Data Use Agreement and/or Non-disclosure 
 * Anyone who knows or has reason to believe that another person has violated these processes should report the matter promptly to ADRF.
 * Consequences for unauthorized disclosure are disciplinary actions, up to and including termination of data access and any penalties outlined in the underlying data use agreement of the data being used.
 * Any attempt to retaliate against a person for reporting a failure to follow these processes may itself be considered a failure to follow these processes.
-
-
