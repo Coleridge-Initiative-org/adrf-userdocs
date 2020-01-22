@@ -2,38 +2,31 @@ Table of Content
 ===================
 
 .. toctree::
-   :caption: Security Requirements
+   :caption: ADRF Overview
 
-   security_requirements/legal
-   security_requirements/fedramp
-   security_requirements/tou
-
-.. toctree::
-   :caption: Getting Started
-
-   getting_started/username
-   getting_started/accessing
+   adrf/adrf
+   adrf/security
 
 .. toctree::
-   :caption: Datastewardship Application
+   :caption: Onboarding
 
-   ds_documents/login
-   ds_documents/onboarding
-   ds_documents/profile
-   ds_documents/explorer
+   onboarding/setup
+   onboarding/sectrain
+   onboarding/profile
+
+.. toctree::
+   :caption: Accessing the ADRF
+
+   access/access
 
 .. toctree::
    :caption: Using the ADRF
 
-   using_the_adrf/jupyterlab
-   using_the_adrf/dbeaver
-   using_the_adrf/mattermost
-
-.. toctree::
-   :caption: Export of Results
-
-   export_of_results/guidelines
-   export_of_results/submission
+   workspace/workspace  
+   workspace/explorer
+   workspace/projects
+   workspace/software
+   workspace/export
 
 .. toctree::
    :caption: FAQ
