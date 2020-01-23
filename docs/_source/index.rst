@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Administrative Data Research Facility (ADRF) Documentation 
+Administrative Data Research Facility (ADRF) Documentation. 
 ==========================================================
 This guide covers all of the basics users need to know when working in the ADRF. It provides helpful illustrations for common user tasks. Furthermore it outlines best practices of using the system, connecting to the ADRF, accessing and working within ADRF project workspaces, and using common tools in the ADRF environment. 
 
