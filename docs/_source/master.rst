@@ -29,14 +29,6 @@ Table of Content
    workspace/export
 
 .. toctree::
-   :caption: Transferring Data
-
-   transfer/hashing  
-   transfer/encyrpt_decrypt
-   transfer/metadata
-   transfer/transfer
-
-.. toctree::
    :caption: FAQ
 
    faq/filepermission

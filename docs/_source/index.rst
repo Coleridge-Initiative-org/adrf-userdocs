@@ -53,19 +53,6 @@ The ADRF provides its users with multiple tools to manage their projects and dat
    workspace/export
 
 
-Transferring Data
--------------------
-To have data on the ADRF, the data must go through various levels of encryption in order to secure privacy, confidentiality, and integrity of the data when transferred from you, the data provided, to the ADRF. During this process, we also work with you to collect metadata pertinent to researchers, data users, data stewards, and yourself, data providers. Lastly, we suggest investigating that data providers become the stewards of their data, so that they may report metrics on data usage back to their respective agency.
-
-.. toctree::
-   :maxdepth: 1
-
-   transfer/hashing  
-   transfer/encyrpt_decrypt
-   transfer/metadata
-   transfer/transfer
-
-
 FAQ
 --------------
 We collect commonly asked questions here. In case you can't find answers to your questions here please email support@adrf.zendesk.com and we will get back to you as soon as possible.  
