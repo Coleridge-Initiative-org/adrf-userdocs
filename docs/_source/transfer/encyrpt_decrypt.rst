@@ -1,0 +1,5 @@
+Encryption and Decryption
+=========================
+Data (after hashing, if needed) will be encrypted for transmission to ADRF using a unique public-private key pair for each transfer using GPG. This public-private key pair used to encrypt these data are valid for one year, will only be used for transfers associated with a given transfer, and will be deleted upon completion of the transfer. This ensures that the data will be encrypted during transfer, however agreed upon, and rest until getting decrypted on the ADRF.
+
+In order to encrypt data, Data providers should download the software hyperlinked for macs(https://gpgtools.org/) or windows(gpg4win.org/). This software has a Graphic User Interface (GUI) which allows the data provider to select the public key, which will be emailed to them, and the file they wish to encrypt. Once encrypted, the data is ready for transfer.

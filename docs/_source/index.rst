@@ -40,7 +40,7 @@ All users of the ADRF need to be uniquely identified and need to authenticate wh
 
 
 Using the ADRF
---------------
+----------------
 The ADRF provides its users with multiple tools to manage their projects and data analysis. This includes a data explorer to find out what data is available in the ADRF and what other researchers using these data sources have published, an automated workflow to submit projects and manage data use agreements, and different software packages for data analysis. 
 
 .. toctree::
@@ -51,6 +51,19 @@ The ADRF provides its users with multiple tools to manage their projects and dat
    workspace/projects
    workspace/software
    workspace/export
+
+
+Transferring Data
+-------------------
+To have data on the ADRF, the data must go through various levels of encryption in order to secure privacy, confidentiality, and integrity of the data when transferred from you, the data provided, to the ADRF. During this process, we also work with you to collect metadata pertinent to researchers, data users, data stewards, and yourself, data providers. Lastly, we suggest investigating that data providers become the stewards of their data, so that they may report metrics on data usage back to their respective agency.
+
+.. toctree::
+   :maxdepth: 1
+
+   transfer/hashing  
+   transfer/encyrpt_decrypt
+   transfer/metadata
+   transfer/transfer
 
 
 FAQ

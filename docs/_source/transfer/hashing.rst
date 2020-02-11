@@ -1,0 +1,11 @@
+Hashing
+=======
+Restricted, Sensitive, For Official Use Only (RSF) data sets and OTHER data sets are de-identified by applying a hash algorithm to key variables. These variables include first name, middle name, last name, and social security number.  NYU and the data provider agreed on a hash algorithm to hash all values - the Hash-based Message Authentication Code (HMAC) algorithm. This is done by data provider individuals with the assistance of the RSF environment’s data curator. In an HMAC, what we refer to as a “salt” is used to create an encryption key that is then used to encrypt a “message” (the value we are hashing), which is then hashed (using SHA256 in our implementation). Using the salt to seed an encryption algorithm allows the additional information from our salt to be more uniformly and opaquely distributed throughout the value that is then hashed. So, value + salt —> HMAC —> hash value. The hashing is one way and cannot be ‘decrypted’.
+ 
+With a given HMAC implementation, a given message + salt combination will always result in the same resulting hash value, so it functions as a more sophisticated form of a salted hash. This can allow for joins of hashed values in two different tables that used the same salt. 
+
+Salt: The salt is created by generating 32 random hexadecimal digits. These are converted to integers and then hashed using SHA256. The same single salt will be applied to all values that we hash (first, middle, and last names and social security numbers) resulting in a 64-character string that cannot be de-identified.
+ 
+Hashing: Each value that is hashed is run through an HMAC with the salt-derived key that uses SHA256 as its hash algorithm. For any given run of the hashing program, the key inputs - the salt, the input CSV file to be read, and the path where output will be written to a CSV file - will all be stored in a configuration file.
+ 
+NYU will provide data providers with the Hashing program, unit tests, an end-to-end test harness, and a sample data file of fake data used in the tests before hashing. 
