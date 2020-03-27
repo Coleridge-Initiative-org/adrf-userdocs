@@ -9,7 +9,7 @@ Pushing commits to the `master` branch will automatically update https://adrf.re
 `pip install sphinx_rtd_theme`
 
 **Build**  
-`cd docs`
+`cd docs`  
 `make html`
 
 **View**  
