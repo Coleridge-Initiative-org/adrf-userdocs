@@ -51,6 +51,7 @@ Any password you set must meet the following requirements, based on NIST passwor
 * 1 lower case letter
 * 1 number
 * 1 special character
+* Passwords may not contain the user's Account Name value or Full Name value. Both checks are not case sensitive.
 
 Please be aware that after the initial set up, it may take up to 2 minutes for your credentials to become active. Accounts and credentials are provided to approved users only. Thus it is important that you do not share your credentials with other people. Always use your own credentials to login to ADRF. After three failed attempts the system will block you for 15 min before you can try again.
 
