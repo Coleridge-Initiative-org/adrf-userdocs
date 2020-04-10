@@ -41,6 +41,7 @@ Any password you set must meet the following requirements, based on NIST passwor
 * 1 number
 * 1 special character
 * Cannot be the same as any of your previous 24 passwords
+* Passwords may not contain the user's Account Name value or Full Name value. Both checks are not case sensitive.
 
 Enter this same password twice and click the submit button.
 
