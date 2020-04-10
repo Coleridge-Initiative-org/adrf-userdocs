@@ -1,12 +1,5 @@
-Security Training and Legal Requirements
-========================================
-
-Before gaining access to all functionalities of the ADRF, every user needs to undergo a security awareness training and sign the terms of use. You can initiate this by clicking on Onboarding in the navigation bar. This will bring you to the ADRF onboarding module.
-
-.. image:: ../images/ds_onboarding.png
-  :width: 600
-  :alt: Screenshot of onboarding page
-
+Security Training and Terms of Use
+==================================
 
 Security Awareness Training
 ---------------------------
@@ -29,6 +22,7 @@ You can also watch the videos of the training below.
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/332501259" width="640" height="400" frameborder="0" allowfullscreen></iframe>
 
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/332501425" width="640" height="400" frameborder="0" allowfullscreen></iframe>
+
 
 Terms of Use
 ------------
@@ -57,7 +51,7 @@ Please keep these rules in mind when working in the ADRF:
 * Maintain the confidentiality of your authentication credentials such as your password. Do not reveal your authentication credentials to anyone; ADRF staff should never ask you to reveal them.
 * Follow proper logon/logoff procedures. You must manually logon to your session; do not store your password locally on your system or utilize any automated logon capabilities. You must promptly logoff when session access is no longer needed. If a logoff function is unavailable, you must close your browser. Never leave your computer unattended while logged into the system.
 * Do not establish any unauthorized interfaces between systems, networks, and applications owned by NYU.
-* Report all security incidents or suspected incidents (e.g., lost passwords, improper or suspicious acts) related to ADRF to security-adrf@nyu.edu and support@applieddataanalyticsprogram.org.
+* Report all security incidents or suspected incidents (e.g., lost passwords, improper or suspicious acts) related to ADRF to adrf-security@coleridgeinitiative.org and support@adrf.zendesk.com.
 * Do not post any data or other information that has not been through a formal disclosure review process (ADRF Export) on any social media or networking sites.
 * Do not take out any information (data, tables, graphs, metadata, etc.) from the ADRF without undergoing disclosure control at any time. This means, do not take screenshot or write down results, or make any other form of notes. Any output you want to display publicly e.g. a website or on social media has to be released by going through the ADRF export process.
 * Usage of public or private external websites on ADRF is strictly prohibited and should be reported immediately, this includes but is not limited to social media/networking websites.

@@ -10,23 +10,20 @@ Table of Content
 .. toctree::
    :caption: Onboarding
 
-   onboarding/setup
-   onboarding/sectrain
+   onboarding/register
+   onboarding/credentials
+   onboarding/modules
    onboarding/profile
-
-.. toctree::
-   :caption: Accessing the ADRF
-
-   access/access
 
 .. toctree::
    :caption: Using the ADRF
 
-   workspace/workspace  
-   workspace/explorer
-   workspace/projects
-   workspace/software
-   workspace/export
+   usingtheadrf/explorer
+   usingtheadrf/projects
+   usingtheadrf/access
+   usingtheadrf/workspace
+   usingtheadrf/software
+   usingtheadrf/export
 
 .. toctree::
    :caption: FAQ
@@ -34,3 +31,8 @@ Table of Content
    faq/filepermission
    faq/password
    faq/support
+
+.. toctree::
+   :caption: Reference
+
+   reference/sectrain

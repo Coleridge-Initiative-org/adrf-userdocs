@@ -1,9 +1,9 @@
-Accessing the ADRF
-==================
+Accessing the Workspace
+=======================
 Once you have your account set up you can sign into the ADRF and access your workspace. There are two ways to access the ADRF. You can log into the web application, where you can access the data explorer, find information on your active projects, and a link to launch your workspace. But you can also access your workspace directly without going through the web application.
 
 
-Sign in via the Web Application 
+Sign in via the Web Application
 -------------------------------
 Please go to https://ds.adrf.cloud/ which will bring you to the log in screen as pictured below.
 
@@ -13,8 +13,8 @@ Please go to https://ds.adrf.cloud/ which will bring you to the log in screen as
 
 Please click the sign in button and enter your ADRF credentials:
 
-* Username: this field accepts your username for the system or the email address associated with your user account.
-* Password: please enter the password you set when creating your account for the ADRF.
+* **Username**: this field accepts your username for the system or the email address associated with your user account.
+* **Password**: please enter the password you set when creating your account for the ADRF.
 
 Clicking the log in button will bring you to the next step. Now you need to get your access token for the two factor log in.
 
@@ -25,10 +25,10 @@ Please go to your phone and open the app you installed such as Duo Mobile and fi
   :alt: Enter onetimecode
 
 
-ADRF Data Stewardship Homepage
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ADRF Homepage
+^^^^^^^^^^^^^
 
-You will be brought to your homepage on the Data Stewardship application. On the left panel you will find the navigation bar.
+You will be brought to your homepage in the ADRF application. On the left panel you will find the navigation bar.
 
 .. image:: ../images/ds_home.png
   :width: 600
