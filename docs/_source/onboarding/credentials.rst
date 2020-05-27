@@ -32,16 +32,18 @@ When you open this link, you will be brought to a screen where you will enter a 
 
 Password Policy
 ---------------
-
 Any password you set must meet the following requirements, based on NIST password complexity guidance:
 
 * 12 Characters
+* Cannot be the same as any of your previous 24 passwords
+* Passwords may not contain the user's Account Name value or Full Name value. Both checks are not case sensitive.
+
+And contains characters from at least three of the following categories:
+
 * 1 upper case letter
 * 1 lower case letter
 * 1 number
 * 1 special character
-* Cannot be the same as any of your previous 24 passwords
-* Passwords may not contain the user's Account Name value or Full Name value. Both checks are not case sensitive.
 
 Enter this same password twice and click the submit button.
 
