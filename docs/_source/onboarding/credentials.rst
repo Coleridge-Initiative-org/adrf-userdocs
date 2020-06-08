@@ -1,7 +1,7 @@
 Account Credentials
 ===================
 
-The ADRF uses two-factor authentication for additional security. You'll need to install an one-time password (OTP) application to your mobile device such as DuoMobile.
+The ADRF uses two-factor authentication for additional security. You'll need to install a one-time password (OTP) application to your mobile device such as DuoMobile.
 
 Download DuoMobile
 ^^^^^^^^^^^^^^^^^^

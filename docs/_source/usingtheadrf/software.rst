@@ -10,7 +10,7 @@ that contain live code, equations, visualizations and explanatory text. Uses
 include: data cleaning and transformation, numerical simulation, statistical
 modeling, machine learning and much more.
 
-To get started, double-click the Jupyter icon on the Desktop.
+To get started, double-click the Jupyter icon on the Desktop, which looks like the icon below.
 
 .. image:: ../images/jupyter-logo.png
   :width: 100
@@ -30,7 +30,7 @@ look similar to the following.
   :width: 600
   :alt: Jupyter Home Folder
 
-*Note the house icon in the upper-left corner of the file navigator.*
+*Note the house icon in the upper-left corner of the file navigator. This is what you should click to get back to the home directory.*
 
 **Project Directory**
 
@@ -75,7 +75,7 @@ DBeaver is free and open source universal database tool for developers and
 database administrators. In the ADRF, it is primarily used as an exploratory
 tool for datasets.
 
-To get started, double-click the DBeaver icon on the Desktop.
+To get started, double-click the DBeaver icon on the Desktop, which looks like the icon below.
 
 .. image:: ../images/dbeaver.png
   :width: 100
@@ -142,7 +142,7 @@ Mattermost
 Mattermost is a flexible, open source messaging platform that enables secure
 team collaboration, similar to Slack. It is provided in the ADRF to allow you to talk to your project team without having that conversation outside of the ADRF to protect the confidentiality of the the data. You can use it if you want to share information with your collaborators that is sensitive in nature.
 
-To get started, double-click the Mattermost icon on the Desktop.
+To get started, double-click the Mattermost icon on the Desktop, which looks like the icon below.
 
 .. image:: ../images/mattermost-logo.png
   :width: 100

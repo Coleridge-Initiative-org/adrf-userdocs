@@ -11,7 +11,7 @@ Safe Projects
 -------------
 	Is this use of the data appropriate, lawful, ethical and sensible?
 
-The design of the ADRF ensures that only approved projects which follow the relevant legal and ethical considerations are allowed. User interactions only occur through access-controlled project workspaces for which approval is given typically time-limited.
+The design of the ADRF ensures that it only allows in approved projects which follow the relevant legal and ethical considerations. User interactions only occur through access-controlled project workspaces. Approval for user access is typically time-limited.
 
 Safe People
 -----------
