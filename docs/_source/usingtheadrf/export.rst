@@ -6,7 +6,7 @@ Disclosure of data refers to every output you take out of the ADRF without going
 
 This does not mean that you can't get any research output from the ADRF. However, to comply with FedRamp security protocols, we have a process in place that every user has to undergo if they want to have results for presentations or papers. The following section describes the ADRF export control and provides guidelines on how to prepare exports so they will meet the disclosure proofing requirements.
 
-If you have any questions about the disclosure review guidelines, you can email support@adrf.zendesk.com.
+If you have any questions about the disclosure review guidelines, you can email support@coleridgeinitiative.org.
 
 Export Guidelines
 -----------------
@@ -171,7 +171,7 @@ Now you can complete the export form and click "Submit Merge Request":
   :width: 400
   :alt: Fill out merge request form in gitlab
 
-**Do not close the merge request**. If you close the merge request, the ADRF staff will not be notified that there is an export request in line to be disclosure proofed. If you accidentally close your merge request, please email support@adrf.zendesk.com.
+**Do not close the merge request**. If you close the merge request, the ADRF staff will not be notified that there is an export request in line to be disclosure proofed. If you accidentally close your merge request, please email support@coleridgeinitiative.org.
 
 Download Approved Export
 ^^^^^^^^^^^^^^^^^^^^^^^^

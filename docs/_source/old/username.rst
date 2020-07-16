@@ -17,7 +17,7 @@ Go to https://id.adrf.cloud/auth/realms/ADRF/account and this will take you to y
   :width: 600
   :alt: ADRF Account log in
 
-Please log in using the credentials you received via email. If you have not received credentials, please contact support at support@adrf.zendesk.com
+Please log in using the credentials you received via email. If you have not received credentials, please contact support at support@coleridgeinitiative.org
 
 Scan QR code
 ^^^^^^^^^^^^

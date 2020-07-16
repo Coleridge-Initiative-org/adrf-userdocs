@@ -46,7 +46,7 @@ The ADRF provides its users with multiple tools to manage their projects and dat
 
 FAQ
 ---
-We collect commonly asked questions here. In case you can't find answers to your questions here please email support@adrf.zendesk.com and we will get back to you as soon as possible.
+We collect commonly asked questions here. In case you can't find answers to your questions here please email support@coleridgeinitiative.org and we will get back to you as soon as possible.
 
 .. toctree::
    :maxdepth: 1

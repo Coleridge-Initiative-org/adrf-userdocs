@@ -66,7 +66,7 @@ of Python for your analysis you can do this by switching to the R kernel.
 
 Package Upload
 """"""""""""""
-The ADRF has the most popular Python and R packages installed. In case you need additional packages please download the packages on your home computer and send them via email to support@adrf.zendesk.com. We will install them for you as soon as possible. Unfortunately you can't install them yourself as the ADRF doesn't allow any connection to the internet.
+The ADRF has the most popular Python and R packages installed. In case you need additional packages please download the packages on your home computer and send them via email to support@coleridgeinitiative.org. We will install them for you as soon as possible. Unfortunately you can't install them yourself as the ADRF doesn't allow any connection to the internet.
 
 
 DBeaver
