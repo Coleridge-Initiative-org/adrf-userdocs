@@ -52,6 +52,7 @@ We collect commonly asked questions here. In case you can't find answers to your
    :maxdepth: 1
 
    faq/password
+   faq/monitorsettings
    faq/support
 
 
