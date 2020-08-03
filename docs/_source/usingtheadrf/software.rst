@@ -171,6 +171,29 @@ Afterwards you'll see a screen like below.
 For more information on how to use Mattermost, refer to the documentation at
 https://docs.mattermost.com/guides/user.html
 
+GitLab
+^^^^^^
+The ADRF provides GitLab which is a git-based repository that you can use within the secure environment. It is intended primarily to support the export process. But if you are familiar with git, you can use it to keep track of your project changes.
+
+To get started double-click the GitLab icon on the Desktop, which looks like the icon below.
+
+.. image:: ../images/gitlab-logo.png
+  :width: 100
+  :alt: GitLab
+
+Your GitLab credentials are the same as you ADRF one. For login, make sure you use the *ADRF* tab and not the *Standard* one, as showed in the next image.
+
+.. image:: ../images/gitlab-login.png
+  :width: 600
+  :alt: Mattermost Home
+
+You will notice that ADRF created 2 git repositories for every project. The one ending in *_export* will be used for the export workflow. You can use the one ending with *_repository* as you need it.
+
+.. image:: ../images/gitlab-repositories-view.png
+  :width: 600
+  :alt: Mattermost Home
+
+
 Libre Office
 ^^^^^^^^^^^^
 The ADRF also offers you open source software to process words, and generate spreadsheets in the ADRF. Instead of exporting your result and writing your paper at home you can do this directly in the ADRF and export the final product. You can access Libre Office by clicking on the arrow in the left lower corner of the screen and then selecting **Office** in the panel.
