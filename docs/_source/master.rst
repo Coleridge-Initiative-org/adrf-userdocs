@@ -31,6 +31,7 @@ Table of Content
    faq/filepermission
    faq/password
    faq/monitorsettings
+   faq/datatransfer
    faq/support
 
 .. toctree::
