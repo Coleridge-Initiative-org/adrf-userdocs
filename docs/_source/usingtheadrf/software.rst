@@ -62,11 +62,19 @@ where they have provided extensive, easy to follow guides at
 https://jupyterlab.readthedocs.io/en/stable/
 
 Juyper Lab also offers you an R kernel for your analysis. If you prefer to use R instead
-of Python for your analysis you can do this by switching to the R kernel.
+of Python for your analysis you can do this by switching to the R kernel (see separate documentation for R).
+
+Connecting to the database
+""""""""""""""""""""""""""
+You can connect directly to the database in Jupyter. You need to load the required packages first, but then you will be able to connect to the database as displayed in the picture below.
+
+.. image:: ../images/connectdb_python.png
+  :width: 600
+  :alt: Picture of code to connect to database
 
 Package Upload
 """"""""""""""
-The ADRF has the most popular Python and R packages installed. In case you need additional packages please download the packages on your home computer and send them via email to support@coleridgeinitiative.org. We will install them for you as soon as possible. Unfortunately you can't install them yourself as the ADRF doesn't allow any connection to the internet.
+The ADRF has the most popular Python packages installed. In case you need additional packages please download the packages on your home computer and send them via email to support@coleridgeinitiative.org. We will install them for you as soon as possible. Unfortunately you can't install them yourself as the ADRF doesn't allow any connection to the internet.
 
 
 DBeaver
@@ -170,6 +178,70 @@ Afterwards you'll see a screen like below.
 
 For more information on how to use Mattermost, refer to the documentation at
 https://docs.mattermost.com/guides/user.html
+
+
+R
+^^^^^^^^^^
+
+Python and SQL are ADRF's default data analytic tools that are accessible for every user. The ADRF however has R Studio and an R kernel for Jupyter available on request. If you need R for your research project please get in touch with us and we can install it for your project.
+
+Working with R Kernel
+"""""""""""""""""""""
+
+If your project has access to an R Kernel you can use Jupyter to run R code. Follow the examples under section Jupyter if you want to know how to run a notebook. The only difference when you want to use Jupyter to run R code is that you need to switch the Kernel to R.
+
+Working with R Studio
+"""""""""""""""""""""
+
+If you have requested to use R Studio on your workspace you will see an R Studio icon on the desktop. Please double click the item and R Studio will open. Then you can proceed using R Studio the same way you are used to work with on your home computer.
+
+Connecting to the database
+""""""""""""""""""""""""""
+You can connect directly to the database using R. You need to load the required packages first, but then you will be able to connect to the database as displayed in the picture below.
+
+.. image:: ../images/connect_db_R.png
+  :width: 600
+  :alt: Picture of code to connect to database
+
+
+Installing R Packages
+"""""""""""""""""""""
+
+This applies to you in case you are using specifc user written packages in R Studio or R Kernel. As the ADRF is not connected to the internet you can't download packages you need when you work on the ADRF. Instead you have to send us the packages (support@coleridgeinitiative.org) you need and we will install them for you. Please note that this takes some time on our side as we have to scan all external files for security vulnerabilities before we can install them. It will take about 2 weeks until a requested package is installed. We advise you to plan your research early and let us know your required packages as soon as possible. The first time you log in to R you can check what packages are installed by running following code. To see what package are installed you can run the command ``installed.packages()``.
+
+
+Stata
+^^^^^^^^^^
+
+Stata is not installed on the ADRF by default as it requires you to purchase a license. If you need Stata for your data analysis work please get in touch with us and we will reach out with information on licensing fees. You will need to buy a license for every user on your project that wants to work with Stata.
+
+If you have Stata available in your project space you will see a Stata icon on the desktop. You can double click and use Stata as you would on your home computer. Please keep in mind that the ADRF stores data in a PostgreSQL database. You won't find flat files in your folder.
+
+Connecting to the database
+""""""""""""""""""""""""""
+
+Thus, to load data you need to connect to the database. In Stata, from the File menu, go to Import, and then click on ODBC data source.
+
+.. image:: ../images/stataodbc.png
+  :width: 600
+  :alt: Picture of Stata odbc connector
+
+
+In the dialog window that pops up, click on postgresql – PostgreSQL to view all tables available. Select the table of your data schema that you want to load. Make sure you check the option “Do not quote SQL table name”, otherwise the data won't load properly.  Click Submit to test it or OK to close the dialog, as pictured below.
+
+.. image:: ../images/stataimport.png
+  :width: 600
+  :alt: Displays how you open data from database
+
+
+Installing Stata ados
+"""""""""""""""""""""
+
+This applies to you in case you are using specifc user written ado files in Stata. As the ADRF is not connected to the internet you can't download ado files you need when you work on the ADRF. Instead you have to send us the ado (support@coleridgeinitiative.org) and we will upload the adofile into your project folder. Please note that this takes some time on our side as we have to scan all external files for security vulnerabilities before we can load them. It will take about 1 week until an ado file is transferred. We advise you to plan your research early and send us your required ados as soon as possible. The first time you log in to Stata you can check if a ado file is installed by typing ``which "name of ado file"``.
+
+When you send us ados these will be saved in your project folder. This means that you have to tell Stata the path to the files so Stata can find them. You can specify the path using the command ``adopath++"path to adofile"``.  Now you can run the command.
+
+
 
 Libre Office
 ^^^^^^^^^^^^

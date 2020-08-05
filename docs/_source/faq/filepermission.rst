@@ -9,7 +9,7 @@ A "permission denied" error would occur when saving a file if:
  - The file permission does not allow group members to change content; or
  - The container folder does not allow group members to change content
 
-In order to identify the source of the issue, open the file explorer (see `Explore your Workspace`_.)  and right click on the file or the container folder and click `Properties`. A dialog window will open. Click con the `Permissions` tab.
+In order to identify the source of the issue, open the file explorer (see `Explore your Workspace <../usingtheadrf/workspace.html>`_)  and right click on the file or the container folder and click `Properties`. A dialog window will open. Click con the `Permissions` tab.
 
 
 .. image:: ../images/filepermissions_identify.png

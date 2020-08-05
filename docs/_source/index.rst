@@ -51,8 +51,10 @@ We collect commonly asked questions here. In case you can't find answers to your
 .. toctree::
    :maxdepth: 1
 
+   faq/filepermission
    faq/password
    faq/monitorsettings
+   faq/datatransfer
    faq/support
 
 
