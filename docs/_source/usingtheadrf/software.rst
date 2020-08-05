@@ -183,15 +183,15 @@ https://docs.mattermost.com/guides/user.html
 R
 ^^^^^^^^^^
 
-Python and SQL are ADRF's default data analytic tools that are accessible for every user. The ADRF however has R Studio or an R kernel for Jupyter available on request. If you need R for your research project please get in touch with us and we can install it for your project.
+Python and SQL are ADRF's default data analytic tools that are accessible for every user. The ADRF however has R Studio and an R kernel for Jupyter available on request. If you need R for your research project please get in touch with us and we can install it for your project.
 
-Working wit R Kernel
-""""""""""""""""""""
+Working with R Kernel
+"""""""""""""""""""""
 
-If your project has access to an R Kernel you can use Jupyter to run R code. Follow the examples under section Jupyter if you want to know how to run a notebook. The only difference when you want to use Jupyter to run R code is that you need to switch the Kernel to R. 
+If your project has access to an R Kernel you can use Jupyter to run R code. Follow the examples under section Jupyter if you want to know how to run a notebook. The only difference when you want to use Jupyter to run R code is that you need to switch the Kernel to R.
 
-Working with R  Studio
-""""""""""""""""""""""
+Working with R Studio
+"""""""""""""""""""""
 
 If you have requested to use R Studio on your workspace you will see an R Studio icon on the desktop. Please double click the item and R Studio will open. Then you can proceed using R Studio the same way you are used to work with on your home computer.
 
@@ -213,9 +213,9 @@ This applies to you in case you are using specifc user written packages in R Stu
 Stata
 ^^^^^^^^^^
 
-Stata is not installed on the ADRF by default as it requires you to purchase a license. If you need Stata for your data anlysis work please get in touch with us and we will reach out with information on licensing fees. You will need to buy a license for every user on your project that wants to work with Stata.
+Stata is not installed on the ADRF by default as it requires you to purchase a license. If you need Stata for your data analysis work please get in touch with us and we will reach out with information on licensing fees. You will need to buy a license for every user on your project that wants to work with Stata.
 
-If you have Stata available in your project space you will see a Stata icon on the desktop. You can double click and use Stata as you would on your home computer. Please keep in mind that the ADRF stores data in a PostgreSQL database. You won't find flat files in your folder. 
+If you have Stata available in your project space you will see a Stata icon on the desktop. You can double click and use Stata as you would on your home computer. Please keep in mind that the ADRF stores data in a PostgreSQL database. You won't find flat files in your folder.
 
 Connecting to the database
 """"""""""""""""""""""""""
@@ -239,7 +239,7 @@ Installing Stata ados
 
 This applies to you in case you are using specifc user written ado files in Stata. As the ADRF is not connected to the internet you can't download ado files you need when you work on the ADRF. Instead you have to send us the ado (support@coleridgeinitiative.org) and we will upload the adofile into your project folder. Please note that this takes some time on our side as we have to scan all external files for security vulnerabilities before we can load them. It will take about 1 week until an ado file is transferred. We advise you to plan your research early and send us your required ados as soon as possible. The first time you log in to Stata you can check if a ado file is installed by typing ``which "name of ado file"``.
 
-When you send us ados these will be saved in your project folder. This means that you have to tell Stata the path to the files so Stata can find them. You can specify the path using the command ``adopath++"path to adofile"``.  Now you can run the command. 
+When you send us ados these will be saved in your project folder. This means that you have to tell Stata the path to the files so Stata can find them. You can specify the path using the command ``adopath++"path to adofile"``.  Now you can run the command.
 
 
 
