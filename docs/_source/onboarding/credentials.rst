@@ -3,9 +3,19 @@ Account Credentials
 
 The ADRF uses two-factor authentication for additional security. You'll need to install a one-time password (OTP) application to your mobile device such as DuoMobile.
 
-Download DuoMobile
-^^^^^^^^^^^^^^^^^^
-Download DuoMobile to your phone or tablet. There is an app for iPhone and Android. You can find more information here: https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
+Download an MFA App
+^^^^^^^^^^^^^^^^^^^
+The ADRF uses Multi-Factor Authentication (MFA) for secure login, so you will need to download an MFA application.
+
+DuoMobile
+---------
+We prefer and **strongly** recommend using DuoMobile. You can download DuoMobile to your phone or tablet.
+There is an app for iPhone and Android. You can find more information here: https://duo.com/product/trusted-users/two-factor-authentication/duo-mobile
+
+Authy
+-----
+We **only** recommend this option if you do **not** have a mobile phone. If that is the case, you can use Authy on your desktop or laptop computer.
+You can download Authy here: https://authy.com/download/
 
 Set Your Password
 ^^^^^^^^^^^^^^^^^
@@ -57,7 +67,7 @@ Once you've successfully entered a password, you will be brought to a Keycloak p
   :width: 600
   :alt: Keycloak page
 
-Configure OTP
+Configure MFA
 ^^^^^^^^^^^^^
 
 In your web browser, go to https://ds.adrf.cloud. You will be brought to the ADRF home page. Click the **Sign In** button in the upper-right corner. On the next screen, enter your username and password and then click **Log In**.
