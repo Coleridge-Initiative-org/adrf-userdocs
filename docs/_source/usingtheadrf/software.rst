@@ -61,8 +61,23 @@ To learn more about how to use JupyterLab, please visit their documentation page
 where they have provided extensive, easy to follow guides at
 https://jupyterlab.readthedocs.io/en/stable/
 
-Juyper Lab also offers you an R kernel for your analysis. If you prefer to use R instead
+Jupyter Lab also offers you an R kernel for your analysis. If you prefer to use R instead
 of Python for your analysis you can do this by switching to the R kernel (see separate documentation for R).
+
+Switching kernels
+"""""""""""""""""
+The ADRF provides a number of different kernels that can be used in Jupyter Lab. Each kernel
+contains different packages, and sometimes different versions of Python, and even different language support such as R.
+We recommend using **py3_ada**, as it contains most common analytical packages for Python, but you may wish to use another.
+
+Switching kernels is easy. In the upper-right corner of the notebook, you will see the name of your kernel. Simply click
+the name of the kernel, and you will be presented with a dropdown menu of all available kernels. Choose the kernel you
+would like and press the **Select** button.
+
+
+.. image:: ../images/switch_kernel.png
+  :width: 200
+  :alt: Switch Kernel
 
 Connecting to the database
 """"""""""""""""""""""""""
