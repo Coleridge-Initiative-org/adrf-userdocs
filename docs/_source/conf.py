@@ -172,7 +172,8 @@ texinfo_documents = [
 
 # -- External links ----------------------------------------------------------
 extlinks = {'fivesafes': ('https://en.wikipedia.org/wiki/Five_safes%s', ''),
-            'fedrampmarketplace': ('https://marketplace.fedramp.gov/#/product/administrative-data-research-facility-adrf%s', ''),
+            'fedrampabout': ('https://www.fedramp.gov/about/%s', ''),
+            'fedrampmarketplace': ('https://marketplace.fedramp.gov/#!/product/administrative-data-research-facility-adrf%s', ''),
             'coleridgeinitiative': ('https://coleridgeinitiative.org/%s', ''),
             'sectest': ('https://ada.coleridgeinitiative.org/security-training%s', ''),
             'termsuse': ('https://ada.coleridgeinitiative.org/rules-of-behavior%s', ''),
