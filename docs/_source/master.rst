@@ -1,40 +1,6 @@
-Table of Content
-===================
+Table of Contents
+=================
 
-.. toctree::
-   :caption: ADRF Overview
+Our documentation has moved!
 
-   adrf/adrf
-   adrf/security
-
-.. toctree::
-   :caption: Onboarding
-
-   onboarding/register
-   onboarding/credentials
-   onboarding/modules
-   onboarding/profile
-
-.. toctree::
-   :caption: Using the ADRF
-
-   usingtheadrf/explorer
-   usingtheadrf/projects
-   usingtheadrf/access
-   usingtheadrf/workspace
-   usingtheadrf/software
-   usingtheadrf/export
-
-.. toctree::
-   :caption: FAQ
-
-   faq/filepermission
-   faq/password
-   faq/monitorsettings
-   faq/datatransfer
-   faq/support
-
-.. toctree::
-   :caption: Reference
-
-   reference/sectrain
+Please visit https://coleridgeinitiative.org/documentation
